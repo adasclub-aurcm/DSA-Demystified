@@ -29,7 +29,7 @@ merged.extend(arr1[i:])
 merged.extend(arr2[j:])
 return merged
 ```
-## 3 .**Question:**
+## 3 **Question:**
 Given an array of integers, write a function to remove all duplicates and return a
 new array with unique elements.
 ### Solution:
